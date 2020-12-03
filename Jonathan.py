@@ -1,5 +1,5 @@
 print("10001")
 print("01010")
 print("00100")
-print("01010)
+print("01010")
 print("10001")
